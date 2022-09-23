@@ -10,4 +10,4 @@ We present a novel general non-stationary point process model based on neural ne
 ![architecture](https://github.com/meowoodie/Neural-Spectral-Marked-Point-Processes/blob/main/architecture.png)
 
 ### Reference
-- [*Shixiang Zhu, Haoyun Wang, Xiuyuan Cheng, Yao Xie.* Neural Spectral Marked Point Processes.](https://arxiv.org/abs/2106.10773)
+- [Shixiang Zhu, Haoyun Wang, Xiuyuan Cheng, Yao Xie. *Neural Spectral Marked Point Processes*. International Conference on Learning Representations (ICLR), 2022.](https://arxiv.org/abs/2106.10773)
